@@ -1,0 +1,97 @@
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  font-family: "Times New Roman", Times, serif;
+  /* background: url(/images/wallpaper.jpg) no-repeat; */
+  background-image: linear-gradient(to right, hsl(22, 44%, 80%), #ad7c74);
+  background-attachment: fixed;
+}
+.login-box {
+  display: flex;
+  width: 280px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #007193;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.login-box h1 {
+  /* float: left; */
+  font-size: 50px;
+  border-bottom: 6px solid #007193;
+  margin-bottom: 50px;
+  padding: 13px 0;
+  margin-right: 50px;
+  margin-left: -55px;
+}
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.imagesall{
+  z-index: -1;
+ width: 2048px;
+ height: 2000px;
+ }
+.login1{
+  width: 400px;
+  height: 500px;
+  margin-bottom: 235px;
+}
+.login2{
+  width: 200px;
+  height: 200px;
+  margin-bottom: 675px;
+  margin-left: -375px;
+  margin-right: 400px;
+}
+.login3{
+  width: 500px;
+  height: 600px;
+  margin-bottom: 245px;
+  margin-left: -50px;
+  margin-right: 57px;
+}
+.login4{
+  width: 600px;
+  height: 700px;
+  margin-bottom: 200px;
+  margin-left: -50px;
+}
+.login5{
+  width: 400px;
+  height: 400px;
+  margin-top: -800px;
+  margin-left: 330px;
+  margin-bottom: 800px;
+}
+.login6{
+  width: 500px;
+  height: 700px;
+}
+.login7{
+  width: 400px;
+  height: 400px;
+  margin-top: -800px;
+  margin-bottom: 1100px;
+  margin-left: 400px;
+}
+.login8{
+  width: 800px;
+  height: 800px;
+  margin-top: -800px;
+  margin-bottom: 1500px;
+  margin-left: 400px;
+}
+.login9{
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1300px;
+}
